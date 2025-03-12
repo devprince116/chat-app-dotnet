@@ -1,0 +1,61 @@
+# Ignore all user-specific and build-generated files for .NET
+**/bin/
+**/obj/
+**/out/
+**/logs/
+**/temp/
+**/TestResults/
+**/node_modules/
+**/.vscode/
+**/.idea/
+**/.vs/
+**/.DS_Store
+**/Thumbs.db
+# Ignore .NET environment and configuration files
+**/appsettings*.json
+**/secrets.json
+**/local.settings.json
+**/.env
+# Ignore user-specific Visual Studio/JetBrains Rider settings
+**/*.user
+**/*.suo
+**/*.userosscache
+**/*.sln.docstates
+# Ignore compiled files
+**/*.dll
+**/*.exe
+**/*.pdb
+**/*.lock
+**/*.log
+# Ignore frontend dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+frontend/.nuxt/
+frontend/.angular/
+frontend/build/
+# Ignore package manager files
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml
+# Ignore deployment and temporary files
+**/Dockerfile
+**/docker-compose.yml
+**/coverage/
+**/publish/
+**/wwwroot/
+# Ignore auto-generated files
+**/swagger/
+**/Generated_Code/
+
+
+Message Junaid Khan
+
+
+
+
+
+
+
+
+
